@@ -46,4 +46,4 @@ See full breakdown in [`key_insights.md`](key_insights.md)
 ##  Contact
 
 Made by [Mihir Padekar]  
-[LinkedIn](www.linkedin.com/mihirpadekar) 
+[LinkedIn](www.linkedin.com/in/mihirpadekar) 
