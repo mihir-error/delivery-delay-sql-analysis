@@ -1,10 +1,10 @@
-# 📦 Delivery Delay Root Cause Analysis (SQL Project)
+#  Delivery Delay Root Cause Analysis (SQL Project)
 
 This project uses SQL to analyze the root causes of delivery delays in an international e-commerce company selling electronics.
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 | File Name                     | Description                                 |
 |------------------------------|---------------------------------------------|
@@ -16,25 +16,25 @@ This project uses SQL to analyze the root causes of delivery delays in an intern
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
-✅ **100% delay for orders with 30%+ discounts**  
-✅ **Medium-weight products (1.5–2.5kg) = 74% delay**  
-✅ **More customer care calls reduce delivery delays**  
-✅ **New customers face 62%+ delay**  
-✅ **Expensive products take longer due to special handling**  
+ **100% delay for orders with 30%+ discounts**  
+ **Medium-weight products (1.5–2.5kg) = 74% delay**  
+ **More customer care calls reduce delivery delays**  
+ **New customers face 62%+ delay**  
+ **Expensive products take longer due to special handling**  
 
 See full breakdown in [`key_insights.md`](key_insights.md)
 
 ---
 
-## 🧠 Summary Visual
+##  Summary Visual
 
 ![Summary Visual](visuals_summary.jpeg)
 
 ---
 
-## 💡 Skills Used
+##  Skills Used
 
 - SQL (MySQL)
 - Data Cleaning & Categorization
@@ -43,7 +43,7 @@ See full breakdown in [`key_insights.md`](key_insights.md)
 
 ---
 
-## 📬 Contact
+##  Contact
 
-Made by [Your Name]  
-[LinkedIn](your-link) • [Email](mailto:your@email.com)
+Made by [Mihir Padekar]  
+[LinkedIn](www.linkedin.com/mihirpadekar) 
