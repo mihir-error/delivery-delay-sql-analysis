@@ -30,7 +30,7 @@ See full breakdown in [`key_insights.md`](key_insights.md)
 
 ##  Summary Visual
 
-![Summary Visual](visuals_summary.jpeg)
+![Summary Visual](visuals_summary.jpg)
 
 ---
 
